@@ -5,5 +5,5 @@
 E segue a seguinte arquitetura
 <div>
 
-<img src="img/Arquitetura.jpg">
+<img src="https://i.imgur.com/G1qGzEe.jpg">
 </div>
